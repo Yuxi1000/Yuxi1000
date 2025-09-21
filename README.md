@@ -1,14 +1,11 @@
 <h1 align="center">Yuxi Zheng</h1>
 
-<h3 align="center"><em>Lead Quant R&D & ML Engineer</em></h3>
+<h3 align="center"><em>--</em></h3>
 
 <hr>
 
 
-I am a Lead Quantitative Researcher and Developer, and Machine Learning Engineer at <a href="https://vituscommodities.com/" target="_blank">Vitus Commodities</a>.
 
-
-I am also a Ph.D. candidate in Economics. My research interests are <a href="https://www.github.com/oedokumaci/gale-shapley" target="_blank">computational mechanism design and matching theory</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022249618300245" target="_blank">decision theory</a>, and applications of Machine Learning in Economics.
 
 
 <hr>
